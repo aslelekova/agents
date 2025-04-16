@@ -1,0 +1,3 @@
+timestamp,question_id,agent_name,question,answer_time,support_name,answer,resolved
+2025-04-16T17:27:54.986801,1,bodya,Какое кВ по осаго?,,,,
+2025-04-16T17:32:16.862149,2,Egor,тест,2025-04-16T17:32:24.058666,Anastasia,отв,yes
